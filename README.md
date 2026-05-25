@@ -4,7 +4,7 @@ Seorang penggiat teknologi yang sedang membangun sistem digital. Fokus saya adal
 
 **Tentang Saya:**
 - 🛠 **Tech Stack:** HTML5, CSS3, JavaScript, Leaflet JS.
-- 🚀 **Proyek Utama:** [Bentang Matra](https://bentangmatra.netlify.app/) - Pusat Komando Taktis & Manajemen Logistik.
+- 🚀 **Proyek Utama:** [Bentang Matra](https://bentangmatra.netlify.app/) - Pusat Komando Intelijen Alam Bebas.
 - 🎯 **Fokus:** Mengintegrasikan teknologi untuk optimasi alur kerja dan navigasi.
 
 ---
